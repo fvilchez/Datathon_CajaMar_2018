@@ -1,6 +1,6 @@
 # Datathon_CajaMar_2018
 
-El presente repositorio contiene el código y la presentación realizada por el equipo WorkingData formada por:
+El presente repositorio contiene el código y la presentación realizada por el equipo WorkingData formado por:
 
 * David Jímenez Paredes
 
